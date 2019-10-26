@@ -1,5 +1,5 @@
 # H2pHe
-Potential energy surface for H_2^+--He
+Potential energy surface for H<sub>2</sub><sup>+</sup>--He
 
 **Requirements**
 
